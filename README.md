@@ -1,4 +1,4 @@
-# 🏥 Apollo Healthcare Analysis (Excel + Power BI)
+# 🏥 papollo Healthcare Analysis (Excel + Power BI)
 
 This project contains an interactive Power BI dashboard that visualizes hospital performance and patient activity.  
 It highlights patient trends, department performance, revenue flow, and treatment behavior.
